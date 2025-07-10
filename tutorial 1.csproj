@@ -43,8 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="amstrong.cs" />
+    <Compile Include="changed_odd_even.cs" />
+    <Compile Include="dimond.cs" />
+    <Compile Include="gender.cs" />
+    <Compile Include="numberinword.cs" />
+    <Compile Include="numberpattern.cs" />
+    <Compile Include="numberperamid.cs" />
+    <Compile Include="odd_even.cs" />
+    <Compile Include="peramid.cs" />
+    <Compile Include="profile_page.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="program_comment_t1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rightrigle.cs" />
+    <Compile Include="samename.cs" />
+    <Compile Include="series.cs" />
+    <Compile Include="string_digit.cs" />
+    <Compile Include="sumofseries.cs" />
+    <Compile Include="sum_mis_solver.cs" />
+    <Compile Include="table.cs" />
+    <Compile Include="togglecase.cs" />
+    <Compile Include="tringlepattern.cs" />
+    <Compile Include="uppercase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
